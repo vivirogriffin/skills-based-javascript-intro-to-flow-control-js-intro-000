@@ -16,7 +16,7 @@ console.log("You are a teenager!")
   console.log ("You are an adult")
 }
 
-function ternaryTeenager(age) { age<=19||age>=13 ? You are a teenager : You are not a teenager
+function ternaryTeenager(age) return { age<=19||age>=13 ? You are a teenager : You are not a teenager
 
 }
 
